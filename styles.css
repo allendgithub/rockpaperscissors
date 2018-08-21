@@ -1,0 +1,55 @@
+@font-face { 
+	font-family: 'Pixel'; 
+	src:url('Pixel Emulator.otf'); 
+
+} 
+
+
+html, body {
+	margin: auto; /*STRETCHES PAGE ALL THE WAY ACROSS */
+	 font-family: 'Pixel'
+
+	}
+ 
+table, th, td {
+	table-layout: fixed;
+	text-align: center;
+	width: 75%;
+	margin: 40px 20px 30px 20px;
+ }
+
+ #toptext {
+ font-size: 17px;
+ }
+ 
+#me {
+	font-size: 50px;
+	margin: 0px 0px 0px -90px;
+ }
+ 
+#you {
+	font-size: 50px;
+	margin: 0px -100px 0px 0px;
+ }
+ 
+
+ 
+#image {margin: -30px 0px 0px 0px;}
+ 
+#rand {text-transform: uppercase;}
+ 
+#rpsoptions {
+	color: red;
+	font-size: 20px;
+	margin: -30px 0px 0px 0px;
+ }
+ 
+#choose {
+	font-size: 20px;
+	margin: -50px 0px 0px 0px;
+ }
+ 
+#rpsbuttons {margin: -50px 0px 0px 0px;}
+ 
+ 
+

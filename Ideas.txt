@@ -1,0 +1,9 @@
+Make buttons images
+
+Make more images, everything image
+
+Do individual trigger for each of the button sections i.e. If rock is pressed, trigger this, if paper, trigger this - put these at beginning, before function game()
+
+Super Mario theme?
+
+Need to tell computer your selection and compare to what computer selected in IF/THEN 
